@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1083; Version 2009; 64bit' Language: 'es' Physical Memory: 3558 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker41
+-projectPath
+E:/1. Quinto semestre universidad/1X5B Graficacion/Parcial 1/Fractal-Mandelbrot-main
+-logFile
+Logs/AssetImportWorker41.log
+-srvPort
+55165
+Successfully changed project path to: E:/1. Quinto semestre universidad/1X5B Graficacion/Parcial 1/Fractal-Mandelbrot-main
+E:/1. Quinto semestre universidad/1X5B Graficacion/Parcial 1/Fractal-Mandelbrot-main
+Using Asset Import Pipeline V2.
